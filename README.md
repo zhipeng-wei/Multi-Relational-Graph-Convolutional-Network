@@ -4,4 +4,4 @@ Part code for Paper: Zero-shot Ingredient Recognition by Multi-Relational Graph 
 
 Please see example.py
 
-Please download the data at [Google Drive]().
+Please download the data at [Google Drive](https://drive.google.com/drive/folders/1aSxwid36jdkMFpXo2rtkEhTEMvwgeIrw?usp=sharing).
