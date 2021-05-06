@@ -1,5 +1,7 @@
 # Multi-Relational-Graph-Convolutional-Network
 
-Part code for Paper: Zero-shot Ingredient Recognition by Multi-Relational Graph Convolutional Network. [paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-ChenJ.4706.pdf)
+Part code for Paper: Zero-shot Ingredient Recognition by Multi-Relational Graph Convolutional Network. [paper](https://ojs.aaai.org//index.php/AAAI/article/view/6626)
 
 Please see example.py
+
+Please download the data at [Google Drive]().
